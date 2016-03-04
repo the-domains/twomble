@@ -1,7 +1,7 @@
 name: twomble
 favicon: null
-layout_spectrum: 0.47624387918040156
-typography_spectrum: 0.47694188030436635
+layout_spectrum: 0.71984
+typography_spectrum: 0.57863
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.051129366271197796
-  lightness: 0.19289737520739436
-  saturation: 0.6265744678676128
-  rhythmicContrast: 0.39764040755108
+    - '#192a3a'
+    - '#294f8e'
+    - '#fefefe'
+    - '#7b8ca6'
+    - '#a5b4c7'
+  brandStrength: 0.25
+  lightness: 0.375
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
